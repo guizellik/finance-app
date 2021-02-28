@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "jeni@jeni.com",
+      "password": "$2a$10$vuSB.BlPFKPAer9x8g.v/OVkDxERmC.RT3zUww9D2YzQfnkysPEN6",
+      "id": 1
+    },
+    {
+      "email": "karina@karina",
+      "password": "$2a$10$S3eo6k8GMUuH6ZA5Jd2tI.rK2X.NNIOZd.5oHoO2BVt84OcXGha3a",
+      "id": 2
+    }
+  ],
+  "register": [],
+  "finance": [
+    {
+      "type": "despesa",
+      "amount": "R$ 1020",
+      "id": 1
+    },
+    {
+      "type": "recebimento",
+      "amount": "R$ 1020",
+      "id": 2
+    }
+  ]
+}
